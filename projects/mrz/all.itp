@@ -1,0 +1,797 @@
+{
+    "settings": {
+        "otsu_enabled": true,
+        "inpaintRadius": 3,
+        "checkColorForSeparationInference": false,
+        "blur": false,
+        "threshold": "200",
+        "timeout": "60",
+        "overlapped_width_percent": 50,
+        "autocorrect": [],
+        "fontStyles": [],
+        "right2left": false,
+        "autoFontSize": true,
+        "precisionMode": 0,
+        "sourceLang": "zh",
+        "invertBasedOnColor": false,
+        "imgQuality": 90,
+        "expanding_pix": 5,
+        "richtext": false,
+        "autoThreshold": true,
+        "targetLang": "en",
+        "overlapped_height_percent": 70,
+        "textLocalizationProcess": [
+            "去除外部区域",
+            "横向合并",
+            "过滤过小项",
+            "去除内部区域",
+            "拓展区域"
+        ],
+        "invert": false,
+        "inferSeparation": true,
+        "minimumHeight": "3",
+        "minimumHSpan": 10,
+        "minFontSize": 12,
+        "furiganaStipperMethod": 0,
+        "auto_params": true,
+        "cjk_vertical_text_engine": true,
+        "dilation": 2,
+        "expand": "6",
+        "autocorrect_enabled": false,
+        "pdf_dpi": 300,
+        "resize": true,
+        "maximumHeight": "100",
+        "minimumVSpan": "10"
+    },
+    "images": {
+        "Slovakia-passport-mini.jpg": {
+            "boxes": []
+        },
+        "9e4e9ab49713b37ad055e460bfc1f434.jpg": {
+            "boxes": []
+        },
+        "Belarus-passport-mini.jpg": {
+            "boxes": []
+        },
+        "Chile-passport-mini.jpg": {
+            "boxes": []
+        },
+        "costa-forum-166254d7052f6d640-passport.jpg": {
+            "boxes": []
+        },
+        "Uzbekistan-passport-mini.jpg": {
+            "boxes": []
+        },
+        "Estonia-passport-mini.jpg": {
+            "boxes": []
+        },
+        "Uruguay-passport-mini.jpg": {
+            "boxes": []
+        },
+        "Italy-passport-mini.jpg": {
+            "boxes": []
+        },
+        "Sweden-passport-mini.jpg": {
+            "boxes": []
+        },
+        "Kyrgyzstan-passport-mini.jpg": {
+            "boxes": []
+        },
+        "Mexico-passport-mini.jpg": {
+            "boxes": [
+                {
+                    "targetGeometry": {
+                        "X": 285,
+                        "width": 458,
+                        "Y": 242,
+                        "height": 45
+                    },
+                    "geometry": {
+                        "X": 273,
+                        "width": 482,
+                        "Y": 230,
+                        "height": 69
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 417,
+                        "width": 290,
+                        "Y": 688,
+                        "height": 48
+                    },
+                    "geometry": {
+                        "X": 405,
+                        "width": 314,
+                        "Y": 676,
+                        "height": 72
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 429,
+                        "width": 24,
+                        "Y": 760,
+                        "height": 24
+                    },
+                    "geometry": {
+                        "X": 417,
+                        "width": 48,
+                        "Y": 748,
+                        "height": 48
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 856,
+                        "width": 660,
+                        "Y": 242,
+                        "height": 45
+                    },
+                    "geometry": {
+                        "X": 844,
+                        "width": 684,
+                        "Y": 230,
+                        "height": 69
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 376,
+                        "width": 24,
+                        "Y": 832,
+                        "height": 64
+                    },
+                    "geometry": {
+                        "X": 364,
+                        "width": 48,
+                        "Y": 820,
+                        "height": 88
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 856,
+                        "width": 669,
+                        "Y": 463,
+                        "height": 33
+                    },
+                    "geometry": {
+                        "X": 844,
+                        "width": 693,
+                        "Y": 451,
+                        "height": 57
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 530,
+                        "width": 62,
+                        "Y": 859,
+                        "height": 28
+                    },
+                    "geometry": {
+                        "X": 518,
+                        "width": 86,
+                        "Y": 847,
+                        "height": 52
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 856,
+                        "width": 151,
+                        "Y": 552,
+                        "height": 33
+                    },
+                    "geometry": {
+                        "X": 844,
+                        "width": 175,
+                        "Y": 540,
+                        "height": 57
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 931,
+                        "width": 218,
+                        "Y": 422,
+                        "height": 26
+                    },
+                    "geometry": {
+                        "X": 919,
+                        "width": 242,
+                        "Y": 410,
+                        "height": 50
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 489,
+                        "width": 151,
+                        "Y": 916,
+                        "height": 69
+                    },
+                    "geometry": {
+                        "X": 477,
+                        "width": 175,
+                        "Y": 904,
+                        "height": 93
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 919,
+                        "width": 312,
+                        "Y": 511,
+                        "height": 26
+                    },
+                    "geometry": {
+                        "X": 907,
+                        "width": 336,
+                        "Y": 499,
+                        "height": 50
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 856,
+                        "width": 242,
+                        "Y": 643,
+                        "height": 33
+                    },
+                    "geometry": {
+                        "X": 844,
+                        "width": 266,
+                        "Y": 631,
+                        "height": 57
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 924,
+                        "width": 348,
+                        "Y": 600,
+                        "height": 31
+                    },
+                    "geometry": {
+                        "X": 912,
+                        "width": 372,
+                        "Y": 588,
+                        "height": 55
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 1058,
+                        "width": 336,
+                        "Y": 319,
+                        "height": 31
+                    },
+                    "geometry": {
+                        "X": 1046,
+                        "width": 360,
+                        "Y": 307,
+                        "height": 55
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 732,
+                        "width": 33,
+                        "Y": 844,
+                        "height": 67
+                    },
+                    "geometry": {
+                        "X": 720,
+                        "width": 57,
+                        "Y": 832,
+                        "height": 91
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 861,
+                        "width": 50,
+                        "Y": 734,
+                        "height": 33
+                    },
+                    "geometry": {
+                        "X": 849,
+                        "width": 74,
+                        "Y": 722,
+                        "height": 57
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 943,
+                        "width": 578,
+                        "Y": 688,
+                        "height": 28
+                    },
+                    "geometry": {
+                        "X": 931,
+                        "width": 602,
+                        "Y": 676,
+                        "height": 52
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 859,
+                        "width": 26,
+                        "Y": 820,
+                        "height": 31
+                    },
+                    "geometry": {
+                        "X": 847,
+                        "width": 50,
+                        "Y": 808,
+                        "height": 55
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 952,
+                        "width": 50,
+                        "Y": 734,
+                        "height": 31
+                    },
+                    "geometry": {
+                        "X": 940,
+                        "width": 74,
+                        "Y": 722,
+                        "height": 55
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 861,
+                        "width": 50,
+                        "Y": 921,
+                        "height": 31
+                    },
+                    "geometry": {
+                        "X": 849,
+                        "width": 74,
+                        "Y": 909,
+                        "height": 55
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 1044,
+                        "width": 110,
+                        "Y": 734,
+                        "height": 33
+                    },
+                    "geometry": {
+                        "X": 1032,
+                        "width": 134,
+                        "Y": 722,
+                        "height": 57
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 856,
+                        "width": 43,
+                        "Y": 972,
+                        "height": 26
+                    },
+                    "geometry": {
+                        "X": 844,
+                        "width": 67,
+                        "Y": 960,
+                        "height": 50
+                    },
+                    "text": ""
+                },
+                {
+                    "geometry": {
+                        "X": 307,
+                        "width": 1779,
+                        "Y": 1238,
+                        "height": 88
+                    },
+                    "text": "P<MEXSAN<JUAN<GUZMAN<<LAURA<<<<<<<<<<<<<<SS<",
+                    "target": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 952,
+                        "width": 201,
+                        "Y": 919,
+                        "height": 36
+                    },
+                    "geometry": {
+                        "X": 940,
+                        "width": 225,
+                        "Y": 907,
+                        "height": 60
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 1017,
+                        "width": 1077,
+                        "Y": 876,
+                        "height": 31
+                    },
+                    "geometry": {
+                        "X": 1005,
+                        "width": 1101,
+                        "Y": 864,
+                        "height": 55
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 960,
+                        "width": 31,
+                        "Y": 972,
+                        "height": 24
+                    },
+                    "geometry": {
+                        "X": 948,
+                        "width": 55,
+                        "Y": 960,
+                        "height": 48
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 1135,
+                        "width": 374,
+                        "Y": 782,
+                        "height": 26
+                    },
+                    "geometry": {
+                        "X": 1123,
+                        "width": 398,
+                        "Y": 770,
+                        "height": 50
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 1120,
+                        "width": 201,
+                        "Y": 823,
+                        "height": 33
+                    },
+                    "geometry": {
+                        "X": 1108,
+                        "width": 225,
+                        "Y": 811,
+                        "height": 57
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 331,
+                        "width": 1720,
+                        "Y": 1358,
+                        "height": 38
+                    },
+                    "geometry": {
+                        "X": 319,
+                        "width": 1744,
+                        "Y": 1346,
+                        "height": 62
+                    },
+                    "text": "I000005470MEX8110103F2211167<<<<<<<<<<<<<<04",
+                    "target": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 1060,
+                        "width": 765,
+                        "Y": 972,
+                        "height": 31
+                    },
+                    "geometry": {
+                        "X": 1048,
+                        "width": 789,
+                        "Y": 960,
+                        "height": 55
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 1394,
+                        "width": 110,
+                        "Y": 825,
+                        "height": 28
+                    },
+                    "geometry": {
+                        "X": 1382,
+                        "width": 134,
+                        "Y": 813,
+                        "height": 52
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 1612,
+                        "width": 199,
+                        "Y": 319,
+                        "height": 31
+                    },
+                    "geometry": {
+                        "X": 1600,
+                        "width": 223,
+                        "Y": 307,
+                        "height": 55
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 1555,
+                        "width": 177,
+                        "Y": 535,
+                        "height": 26
+                    },
+                    "geometry": {
+                        "X": 1543,
+                        "width": 201,
+                        "Y": 523,
+                        "height": 50
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 1502,
+                        "width": 55,
+                        "Y": 732,
+                        "height": 31
+                    },
+                    "geometry": {
+                        "X": 1490,
+                        "width": 79,
+                        "Y": 720,
+                        "height": 55
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 1591,
+                        "width": 280,
+                        "Y": 679,
+                        "height": 43
+                    },
+                    "geometry": {
+                        "X": 1579,
+                        "width": 304,
+                        "Y": 667,
+                        "height": 67
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 1660,
+                        "width": 72,
+                        "Y": 571,
+                        "height": 48
+                    },
+                    "geometry": {
+                        "X": 1648,
+                        "width": 96,
+                        "Y": 559,
+                        "height": 72
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 1502,
+                        "width": 52,
+                        "Y": 921,
+                        "height": 31
+                    },
+                    "geometry": {
+                        "X": 1490,
+                        "width": 76,
+                        "Y": 909,
+                        "height": 55
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 1622,
+                        "width": 52,
+                        "Y": 734,
+                        "height": 31
+                    },
+                    "geometry": {
+                        "X": 1610,
+                        "width": 76,
+                        "Y": 722,
+                        "height": 55
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 1802,
+                        "width": 261,
+                        "Y": 362,
+                        "height": 31
+                    },
+                    "geometry": {
+                        "X": 1790,
+                        "width": 285,
+                        "Y": 350,
+                        "height": 55
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 1593,
+                        "width": 50,
+                        "Y": 921,
+                        "height": 31
+                    },
+                    "geometry": {
+                        "X": 1581,
+                        "width": 74,
+                        "Y": 909,
+                        "height": 55
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 1497,
+                        "width": 458,
+                        "Y": 1116,
+                        "height": 28
+                    },
+                    "geometry": {
+                        "X": 1485,
+                        "width": 482,
+                        "Y": 1104,
+                        "height": 52
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 1747,
+                        "width": 292,
+                        "Y": 734,
+                        "height": 31
+                    },
+                    "geometry": {
+                        "X": 1735,
+                        "width": 316,
+                        "Y": 722,
+                        "height": 55
+                    },
+                    "text": ""
+                },
+                {
+                    "targetGeometry": {
+                        "X": 1684,
+                        "width": 112,
+                        "Y": 919,
+                        "height": 33
+                    },
+                    "geometry": {
+                        "X": 1672,
+                        "width": 136,
+                        "Y": 907,
+                        "height": 57
+                    },
+                    "text": ""
+                }
+            ]
+        },
+        "United-kingdom-of-great-britain-passport-mini.jpg": {
+            "boxes": []
+        },
+        "1175418_231184000363788_534965287_n.png": {
+            "boxes": []
+        },
+        "Moldova-passport-mini.jpg": {
+            "boxes": []
+        },
+        "Belgium-passport-mini.jpg": {
+            "boxes": []
+        },
+        "1599px-JTK_Stearne_Passport-563x400.jpg": {
+            "boxes": []
+        },
+        "77-77.jpg": {
+            "boxes": []
+        },
+        "Poland-passport-mini.jpg": {
+            "boxes": []
+        },
+        "61772243-66908300-ae0f-11e9-8636-fefe7918f55a.jpg": {
+            "boxes": []
+        },
+        "Romania-passport-mini.jpg": {
+            "boxes": []
+        },
+        "Indonesia-passport-mini.jpg": {
+            "boxes": []
+        },
+        "Bulgaria-passport-mini.jpg": {
+            "boxes": []
+        },
+        "Dominicana-passport-mini.jpg": {
+            "boxes": []
+        },
+        "Ireland-passport-mini.jpg": {
+            "boxes": []
+        },
+        "Spain-passport-mini.jpg": {
+            "boxes": []
+        },
+        "Canada-passport-mini.jpg": {
+            "boxes": []
+        },
+        "IMG_8763.jpg": {
+            "boxes": []
+        },
+        "Germany-passport-mini.jpg": {
+            "boxes": []
+        },
+        "Israel-Two-Iranians-article-pic-1.jpg": {
+            "boxes": []
+        },
+        "1a9990a8-2b5d-40ac-a727-2b3059715dca.jpg": {
+            "boxes": []
+        },
+        "Kazakhstan-passport-mini.jpg": {
+            "boxes": []
+        },
+        "dd49ec467f711f0eb4c0d60ea7acc6ac.jpg": {
+            "boxes": []
+        },
+        "China-passport-mini.jpg": {
+            "boxes": []
+        },
+        "Netherlands-passport-mini.jpg": {
+            "boxes": []
+        }
+    },
+    "terms": {},
+    "dirPath": "F:\\mrz\\dataset"
+}

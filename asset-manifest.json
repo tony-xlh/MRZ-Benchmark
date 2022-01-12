@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MRZ-Benchmark/static/css/main.75b4c437.css",
+    "main.js": "/MRZ-Benchmark/static/js/main.ebfd1466.js",
+    "static/js/787.174fdcef.chunk.js": "/MRZ-Benchmark/static/js/787.174fdcef.chunk.js",
+    "index.html": "/MRZ-Benchmark/index.html",
+    "main.75b4c437.css.map": "/MRZ-Benchmark/static/css/main.75b4c437.css.map",
+    "main.ebfd1466.js.map": "/MRZ-Benchmark/static/js/main.ebfd1466.js.map",
+    "787.174fdcef.chunk.js.map": "/MRZ-Benchmark/static/js/787.174fdcef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75b4c437.css",
+    "static/js/main.ebfd1466.js"
+  ]
+}
